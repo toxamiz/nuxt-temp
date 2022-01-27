@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "nuxt": "^2.10.2",
-    "three": "^0.110.0"
+    "three": "^0.137.0"
   }
 }
